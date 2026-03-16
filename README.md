@@ -11,13 +11,13 @@ Adjustable password length slider
 
 Option to include:
 
-Uppercase letters
+    Uppercase letters
 
-Lowercase letters
+    Lowercase letters
 
-Numbers
+    Numbers
 
-Symbols
+    Symbols
 
 Password strength indicator (Weak / Medium / Strong)
 
