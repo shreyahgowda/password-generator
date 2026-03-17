@@ -5,9 +5,9 @@ This tool helps users create strong and random passwords with customizable optio
 
 📌 Features
 
-1. Generate secure random passwords
+* Generate secure random passwords
 
-2. Adjustable password length slider
+* Adjustable password length slider
 
 * Option to include:
 
@@ -19,46 +19,48 @@ This tool helps users create strong and random passwords with customizable optio
 
     Symbols
 
-Password strength indicator (Weak / Medium / Strong)
+* Password strength indicator (Weak / Medium / Strong)
 
-Copy password button for easy clipboard copying
+* Copy password button for easy clipboard copying
 
-Clean and responsive user interface
+* Clean and responsive user interface
 
 🛠️ Technologies Used
 
-HTML5 – Structure of the webpage
+ * HTML5 – Structure of the webpage
 
-CSS3 – Styling and layout
+ * CSS3 – Styling and layout
 
-JavaScript – Password generation logic and interactivity
+ * JavaScript – Password generation logic and interactivity
 
 📂 Project Structure
+
 password-generator
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
 ⚙️ How It Works
 
-Select the password length using the slider.
+ 1. Select the password length using the slider.
 
-Choose the character types:
+ 2. Choose the character types:
 
-Uppercase
+        Uppercase
 
-Lowercase
+        Lowercase
 
-Numbers
+        Numbers
 
-Symbols
+        Symbols
 
-Click Generate Password.
+ 3. Click Generate Password.
 
-The generated password will appear in the output box.
+ 4. The generated password will appear in the output box.
 
-Click Copy to copy the password to your clipboard.
+ 5. Click Copy to copy the password to your clipboard.
 
 💻 Example Output
 Generated Password: A7@kLp!9Zx3Q
