@@ -5,11 +5,11 @@ This tool helps users create strong and random passwords with customizable optio
 
 📌 Features
 
-Generate secure random passwords
+1. Generate secure random passwords
 
-Adjustable password length slider
+2. Adjustable password length slider
 
-Option to include:
+* Option to include:
 
     Uppercase letters
 
