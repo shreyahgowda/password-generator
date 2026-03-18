@@ -11,13 +11,13 @@ This tool helps users create strong and random passwords with customizable optio
 
 * Option to include:
 
-    Uppercase letters
+      Uppercase letters
 
-    Lowercase letters
+      Lowercase letters
 
-    Numbers
+      Numbers
 
-    Symbols
+      Symbols
 
 * Password strength indicator (Weak / Medium / Strong)
 
