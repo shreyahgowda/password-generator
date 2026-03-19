@@ -27,20 +27,20 @@ This tool helps users create strong and random passwords with customizable optio
 
 🛠️ Technologies Used
 
- * HTML5 – Structure of the webpage
+    * HTML5 – Structure of the webpage
 
- * CSS3 – Styling and layout
+    * CSS3 – Styling and layout
 
- * JavaScript – Password generation logic and interactivity
+    * JavaScript – Password generation logic and interactivity
 
 📂 Project Structure
 
-password-generator
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+    password-generator 
+    │
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    └── README.md
 
 ⚙️ How It Works
 
