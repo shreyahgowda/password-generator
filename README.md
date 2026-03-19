@@ -63,5 +63,20 @@ This tool helps users create strong and random passwords with customizable optio
  5. Click Copy to copy the password to your clipboard.
 
 💻 Example Output
+
+    Generated Password: A7@kLp!9Zx3Q
+    Password Strength: Strong
+
+
+
+
+
+
+
+
+
+
+
+
 Generated Password: A7@kLp!9Zx3Q
 Password Strength: Strong
