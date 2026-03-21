@@ -69,14 +69,3 @@ This tool helps users create strong and random passwords with customizable optio
 
 
 
-
-
-
-
-
-
-
-
-
-Generated Password: A7@kLp!9Zx3Q
-Password Strength: Strong
