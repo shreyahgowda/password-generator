@@ -1,6 +1,8 @@
-🔐 Password Generator Web App
+🔗 Live Demo
 
-https://password-generator-mauve-xi.vercel.app
+    👉 https://password-generator-mauve-xi.vercel.app
+
+🔐 Password Generator Web App
 
 A simple, secure, and user-friendly Password Generator Web Application built using HTML, CSS, and JavaScript. This application enables users to generate strong, random passwords with customizable options to enhance security and protect sensitive information.
 
